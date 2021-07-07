@@ -1,5 +1,5 @@
 name: fastqc
-description: Run FastQC on sequenced reads
+description: Don't Run FastQC on sequenced reads
 keywords:
     - quality control
     - qc
