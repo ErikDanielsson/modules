@@ -1,3 +1,4 @@
+// This should not be here???!
 // Import generic module functions
 include { initOptions; saveFiles; getSoftwareName } from './functions'
 
